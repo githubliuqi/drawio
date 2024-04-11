@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T07:11:40.191Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="STJECJTOatrnJbmvssZa" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T07:13:20.880Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="r0pV6fvCktP3PdwHswpJ" version="24.0.7" type="github">
   <diagram name="第 1 页" id="jcVEZMa674RAuCqElUsa">
     <mxGraphModel dx="1553" dy="1126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,19 +31,19 @@
         <mxCell id="g0dAhYQNbu406ivaat-B-4" value="主播" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
           <mxGeometry x="621.5" y="510" width="18.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="g0dAhYQNbu406ivaat-B-13" value="审核、记录、消费" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="g0dAhYQNbu406ivaat-B-13" value="审核、记录、消费" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="222.38" y="270" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g0dAhYQNbu406ivaat-B-14" value="4、礼物消息" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="g0dAhYQNbu406ivaat-B-14" value="4、礼物消息" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="400" y="449" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g0dAhYQNbu406ivaat-B-16" value="1、礼物消息" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="g0dAhYQNbu406ivaat-B-16" value="1、礼物消息" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="191.5" y="443" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g0dAhYQNbu406ivaat-B-20" value="2、返回结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="297" y="471" width="73.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g0dAhYQNbu406ivaat-B-21" value="5、礼物消息" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="g0dAhYQNbu406ivaat-B-21" value="5、礼物消息" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="449" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g0dAhYQNbu406ivaat-B-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.199;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g0dAhYQNbu406ivaat-B-3" target="g0dAhYQNbu406ivaat-B-1">
@@ -55,8 +55,8 @@
         <mxCell id="g0dAhYQNbu406ivaat-B-38" value="3、观众端渲染礼物" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="297" y="540" width="63" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g0dAhYQNbu406ivaat-B-39" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;1、获取礼物列表&lt;div&gt;2、礼物消费&lt;/div&gt;&lt;div&gt;3、余额充值&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="400" width="100" height="100" as="geometry" />
+        <mxCell id="g0dAhYQNbu406ivaat-B-39" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;1、获取礼物列表&lt;div&gt;2、礼物消费&lt;/div&gt;&lt;div&gt;3、余额充值&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
