@@ -313,6 +313,96 @@
         <mxCell id="24WdsLfVIEtXJVcazkG--27" value="onReceivedBarrage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="277.62" y="1968" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="750" y="1720" width="140" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#FFFFFF;" vertex="1" parent="24WdsLfVIEtXJVcazkG--28">
+          <mxGeometry width="140" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--30" value="Audience B" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="24WdsLfVIEtXJVcazkG--28">
+          <mxGeometry x="10" y="11.857142857142858" width="120" height="25.714285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashPattern=1 2;" edge="1" parent="24WdsLfVIEtXJVcazkG--28" source="24WdsLfVIEtXJVcazkG--29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="173.57142857142858" as="sourcePoint" />
+            <mxPoint x="70" y="38.57142857142858" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1315.24" y="1720" width="140" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#FFFFFF;" vertex="1" parent="24WdsLfVIEtXJVcazkG--32">
+          <mxGeometry width="140" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--34" value="Anchor A" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="24WdsLfVIEtXJVcazkG--32">
+          <mxGeometry x="10" y="11.857142857142858" width="120" height="25.714285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashPattern=1 2;" edge="1" parent="24WdsLfVIEtXJVcazkG--32" source="24WdsLfVIEtXJVcazkG--33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="173.57142857142858" as="sourcePoint" />
+            <mxPoint x="70" y="38.57142857142858" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="24WdsLfVIEtXJVcazkG--32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-215.24" y="250" as="sourcePoint" />
+            <mxPoint x="64.75999999999999" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1030" y="1720" width="175" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="24WdsLfVIEtXJVcazkG--37">
+          <mxGeometry width="140" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--39" value="BarrageIMService" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="24WdsLfVIEtXJVcazkG--37">
+          <mxGeometry x="10" y="11.935483870967742" width="120" height="23.870967741935484" as="geometry" />
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--40" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashPattern=1 2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="24WdsLfVIEtXJVcazkG--37" source="24WdsLfVIEtXJVcazkG--38" target="24WdsLfVIEtXJVcazkG--39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="393.8709677419355" as="sourcePoint" />
+            <mxPoint x="60" y="95.48387096774194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="24WdsLfVIEtXJVcazkG--37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-210" y="140" as="sourcePoint" />
+            <mxPoint x="70" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--42" value="Barrage API timing diagram" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="975" y="1650" width="236.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--43" value="1. send a message" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1838" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--44" value="sendBarrage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="885" y="1858" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="752" y="1789" width="701" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--46" value="" style="endArrow=none;html=1;rounded=0;exitX=0.014;exitY=0.181;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.984;entryY=0.178;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B3B3B3;" edge="1" parent="24WdsLfVIEtXJVcazkG--45" source="24WdsLfVIEtXJVcazkG--29" target="24WdsLfVIEtXJVcazkG--33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="318" y="291" as="sourcePoint" />
+            <mxPoint x="708" y="1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--47" value="" style="endArrow=none;html=1;rounded=0;exitX=0.014;exitY=0.181;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.984;entryY=0.178;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B3B3B3;" edge="1" parent="24WdsLfVIEtXJVcazkG--45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="1" as="sourcePoint" />
+            <mxPoint x="701" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--48" value="Take the Barrage between anchor A and audience B as an example to show the logic&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFEADC;strokeColor=#d6b656;" vertex="1" parent="24WdsLfVIEtXJVcazkG--45">
+          <mxGeometry x="210" y="-23" width="260" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--49" value="2. Anchor A received a message" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="1938" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24WdsLfVIEtXJVcazkG--50" value="onReceivedBarrage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1187.62" y="1968" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
