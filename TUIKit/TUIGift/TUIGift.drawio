@@ -281,7 +281,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="24WdsLfVIEtXJVcazkG--13" value="弹幕 API 时序图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1620" width="120" height="60" as="geometry" />
+          <mxGeometry x="133.5" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="24WdsLfVIEtXJVcazkG--15" value="1. 发送弹幕消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-35" y="1838" width="110" height="30" as="geometry" />
